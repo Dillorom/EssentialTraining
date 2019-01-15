@@ -44,6 +44,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="CutePets.cs" />
     <Compile Include="FlowControl.cs" />
+    <Compile Include="ProgrammingLoops.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SampleArray.cs" />
   </ItemGroup>
